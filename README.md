@@ -1,1 +1,1 @@
-[Wallet](made-in-panama/Screenshot from 2020-09-04 13-50-30.png)
+![Wallet](https://github.com/molekilla/made-in-panama/blob/master/Screenshot%20from%202020-09-04%2013-50-30.png)
